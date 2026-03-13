@@ -33,4 +33,6 @@ Thumbs.db
 __pycache__/
 *.pyc
 
-vectorstores/
+
+
+vector_stores/
